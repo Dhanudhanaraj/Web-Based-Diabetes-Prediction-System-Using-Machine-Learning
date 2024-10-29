@@ -1,7 +1,6 @@
 # Web-Based Diabetes Prediction System Using Machine Learning
 
 ## About
-
      This project aims to provide an accessible tool for predicting the risk of diabetes, leveraging machine learning algorithms integrated into a web-based interface. Users can input health data, and the system returns real-time predictions about their diabetes risk. This proactive approach can help individuals make informed decisions about their health and seek medical advice if necessary.
 
 ## Features

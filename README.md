@@ -5,14 +5,14 @@
      This project aims to provide an accessible tool for predicting the risk of diabetes, leveraging machine learning algorithms integrated into a web-based interface. Users can input health data, and the system returns real-time predictions about their diabetes risk. This proactive approach can help individuals make informed decisions about their health and seek medical advice if necessary.
 
 ## Features
+## Features
+- Data Input Interface: Users can enter health metrics such as age, BMI, blood pressure, and cholesterol.
 
--Data Input Interface: Users can enter health metrics such as age, BMI, blood pressure, and cholesterol.
+- Real-Time Predictions: The system uses a trained machine learning model to predict diabetes risk.
 
-2.Real-Time Predictions: The system uses a trained machine learning model to predict diabetes risk.
+- Multiple Models: Compares several models to select the most effective one, ensuring optimal prediction accuracy.
 
-3.Multiple Models: Compares several models to select the most effective one, ensuring optimal prediction accuracy.
-
-4.User-Friendly Interface: Designed for ease of use by both technical and non-technical users.
+- User-Friendly Interface: Designed for ease of use by both technical and non-technical users.
 
 ## Development Requirements
 

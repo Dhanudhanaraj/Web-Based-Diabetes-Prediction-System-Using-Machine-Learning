@@ -29,8 +29,8 @@ This project aims to provide an accessible tool for predicting the risk of diabe
 ## Methodology
 
 1.Data Preprocessing:
-    -Cleaning data by removing duplicates and handling missing values.
-    -Selecting key features, including age, BMI, blood pressure, and cholesterol, as predictors.
+-Cleaning data by removing duplicates and handling missing values.
+-Selecting key features, including age, BMI, blood pressure, and cholesterol, as predictors.
     
 2.Model Training:
 
@@ -40,7 +40,8 @@ This project aims to provide an accessible tool for predicting the risk of diabe
 3.Model Evaluation:
 
    - Evaluated using accuracy, precision, recall, and F1-score.
-   - The Decision Tree model demonstrated balanced performance and interpretability. 
+   - The Decision Tree model demonstrated balanced performance and interpretability.
+     
 ![Screenshot 2024-10-30 013354](https://github.com/user-attachments/assets/c9a79388-5947-4e7e-b313-c2c7e24bfe22)
 
 ![Screenshot 2024-10-30 013413](https://github.com/user-attachments/assets/2f8d3456-9dfe-48a1-9641-2024b9df79e8)

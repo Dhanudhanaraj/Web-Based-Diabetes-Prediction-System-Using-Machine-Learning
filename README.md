@@ -1,8 +1,8 @@
 # Web-Based Diabetes Prediction System Using Machine Learning
 ## About
-```
-     This project aims to provide an accessible tool for predicting the risk of diabetes, leveraging machine learning algorithms integrated into a web-based interface. Users can input health data, and the system returns real-time predictions about their diabetes risk. This proactive approach can help individuals make informed decisions about their health and seek medical advice if necessary.
-```
+
+This project aims to provide an accessible tool for predicting the risk of diabetes, leveraging machine learning algorithms integrated into a web-based interface. Users can input health data, and the system returns real-time predictions about their diabetes risk. This proactive approach can help individuals make informed decisions about their health and seek medical advice if necessary.
+
 ## Features
 
 - Data Input Interface: Users can enter health metrics such as age, BMI, blood pressure, and cholesterol.
@@ -25,7 +25,6 @@
 - Frontend: HTML5, CSS3, and JavaScript.
 - Backend: Django-based backend for request handling and model integration.
 - Model: A Decision Tree model optimized for accuracy and interpretability.
-- Database: SQLite for storing user inputs and model predictions.
 
 ## Methodology
 
@@ -38,13 +37,14 @@
     - The Decision Tree model achieved the highest accuracy, making it ideal for deployment in this application.
     
 3.Model Evaluation:
-    - Evaluated using accuracy, precision, recall, and F1-score.
+
+1.Evaluated using accuracy, precision, recall, and F1-score.
     
-    ![Screenshot 2024-10-30 013354](https://github.com/user-attachments/assets/c9a79388-5947-4e7e-b313-c2c7e24bfe22)
+![Screenshot 2024-10-30 013354](https://github.com/user-attachments/assets/c9a79388-5947-4e7e-b313-c2c7e24bfe22)
 
-    ![Screenshot 2024-10-30 013413](https://github.com/user-attachments/assets/2f8d3456-9dfe-48a1-9641-2024b9df79e8)
+![Screenshot 2024-10-30 013413](https://github.com/user-attachments/assets/2f8d3456-9dfe-48a1-9641-2024b9df79e8)
 
-    - The Decision Tree model demonstrated balanced performance and interpretability.
+2.The Decision Tree model demonstrated balanced performance and interpretability.
     
 
 
@@ -58,12 +58,13 @@ python manage.py runserver
 
 ## Project Structure
 
-         - models/diabetes_model.pkl: Trained machine learning model for diabetes risk prediction.
-         - app/: Django app containing:
-               - views.py: Logic for processing user inputs and generating predictions.
-               - forms.py: Form for inputting health metrics.
-               - result.py:Form for displaying output/prediction.
-               - templates/: HTML templates for the web interface.
+1. models/diabetes_model.pkl: Trained machine learning model for diabetes risk prediction.
+
+2. app/: Django app containing:
+   - views.py: Logic for processing user inputs and generating predictions.
+   - forms.py: Form for inputting health metrics.
+   - result.py:Form for displaying output/prediction.
+   - templates/: HTML templates for the web interface.
                
 ## Results
 

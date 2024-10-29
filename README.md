@@ -36,9 +36,9 @@ This project aims to provide an accessible tool for predicting the risk of diabe
     
 2.Model Training:
 
-    i)Multiple algorithms were trained, including Decision Tree, Random Forest, and Gradient Boosting, to determine the most effective model.
+   i)Multiple algorithms were trained, including Decision Tree, Random Forest, and Gradient Boosting, to determine the most effective model.
     
-    ii)The Decision Tree model achieved the highest accuracy, making it ideal for deployment in this application.
+   ii)The Decision Tree model achieved the highest accuracy, making it ideal for deployment in this application.
     
 3.Model Evaluation:
 

@@ -37,14 +37,13 @@ This project aims to provide an accessible tool for predicting the risk of diabe
     - The Decision Tree model achieved the highest accuracy, making it ideal for deployment in this application.
     
 3.Model Evaluation:
-
-1.Evaluated using accuracy, precision, recall, and F1-score.
+   - Evaluated using accuracy, precision, recall, and F1-score.
     
 ![Screenshot 2024-10-30 013354](https://github.com/user-attachments/assets/c9a79388-5947-4e7e-b313-c2c7e24bfe22)
 
 ![Screenshot 2024-10-30 013413](https://github.com/user-attachments/assets/2f8d3456-9dfe-48a1-9641-2024b9df79e8)
 
-2.The Decision Tree model demonstrated balanced performance and interpretability.
+    - The Decision Tree model demonstrated balanced performance and interpretability.
     
 
 

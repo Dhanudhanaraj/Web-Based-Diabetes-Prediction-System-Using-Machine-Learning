@@ -1,4 +1,4 @@
-# TEAM NUMBER:163 Web-Based Diabetes Prediction System Using Machine Learning
+# TEAM-NO-163-Web-Based-Diabetes-Prediction-System-Using-Machine-Learning
 
 ## About
 

@@ -50,6 +50,8 @@ This project aims to provide an accessible tool for predicting the risk of diabe
 
 ![Screenshot 2024-10-30 013413](https://github.com/user-attachments/assets/2f8d3456-9dfe-48a1-9641-2024b9df79e8)
 
+![Screenshot 2024-11-06 210721](https://github.com/user-attachments/assets/958680b5-71f4-4d7e-a77f-0cea05ad4428)
+
 ## Setup Instructions
 
 - Run the Django Server:
@@ -63,7 +65,7 @@ python manage.py runserver
 - data/diabetics.csv: Folder to store the dataset used for training the model.
 - model/diabetics.pkl: Folder to store the trained model as a .pkl file for easy loading and usage within the app.
 - static/: Contains static files such as images (diabetics1.jpeg and diabetics2.jpeg), as well as CSS and JavaScript files, if needed.
-- templates/: Contains HTML templates. index.html is the main input page, and result.html shows the prediction output.
+- templates/: Contains HTML templates. index.html is used for the main input page, and shows the prediction output.
                
 ## Results
 
@@ -71,10 +73,13 @@ The Decision Tree model achieved an accuracy of approximately 92%, making it eff
 
 ## Output 
 ### Web-page asking for input from user
-![WhatsApp Image 2024-10-30 at 12 21 46 AM](https://github.com/user-attachments/assets/c9ec856f-7faf-4a92-839d-51393736528e)
+![WhatsApp Image 2024-11-03 at 6 56 28 PM](https://github.com/user-attachments/assets/26dadf4c-e565-4d32-8ece-4e2cb7ccbd95)
+
 
 ### Web-page displays the result
-![WhatsApp Image 2024-10-30 at 12 21 46 AM (1)](https://github.com/user-attachments/assets/19a02e2c-3482-48da-beab-e21c16934673)
+![WhatsApp Image 2024-11-03 at 6 56 29 PM](https://github.com/user-attachments/assets/6765d85a-ddab-4d82-a5e2-d19701b69caa)
+
+
 
 ## Future Improvements
 
